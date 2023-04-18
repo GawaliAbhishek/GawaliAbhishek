@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQFToW2EIuFvxw/profile-displaybackgroundimage-shrink_350_1400/0/1669955579750?e=1680134400&v=beta&t=BYyKIVrTbMBGyblIKzoixFV64nelG7MryZqIaMFTgtY" height="175px"/></a>
+
+![1669955579750](https://user-images.githubusercontent.com/89680568/232879703-65fd44b0-fb53-4b23-8c15-29dd3c844099.jpeg)
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhishek Gawali</h1>
 <h3 align="center">Student || Third Year || CSE || SSGMCE. Aspiring Java Developer || React JS || Experienced in working with Spring Boot | Hybernate | Rest API | Rest Web Services</h3>
