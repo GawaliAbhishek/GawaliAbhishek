@@ -2,7 +2,7 @@
 ![1669955579750](https://user-images.githubusercontent.com/89680568/232879703-65fd44b0-fb53-4b23-8c15-29dd3c844099.jpeg)
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhishek Gawali</h1>
-<h3 align="center">Student || Third Year || CSE || SSGMCE. Aspiring Java Developer || React JS || Experienced in working with Spring Boot | Hybernate | Rest API | Rest Web Services</h3>
+<h3 align="center">Student || Final Year || CSE || SSGMCE. Aspiring Java Developer || React JS || Experienced in working with Spring Boot | Hybernate | Rest API | Rest Web Services</h3>
 
 <br>
 
